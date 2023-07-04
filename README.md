@@ -6,7 +6,77 @@
   <img height="250em" src="https://github-readme-stats-sage-theta-85.vercel.app/api/top-langs/?username=Minhee713">
 </p>
 
-<!--START_SECTION:waka-->  
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-88-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 248 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+🌆 Daytime                66 commits          ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+🌃 Evening                144 commits         ███████████████░░░░░░░░░░   60.50 % 
+🌙 Night                  22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   39 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Tuesday                  36 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Wednesday                32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Thursday                 30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Friday                   34 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Saturday                 23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Sunday                   44 commits          █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in C** 
+
+```text
+C                        3 repos             ███████████████████░░░░░░   75.00 % 
+q                        1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Minhee713/Minhee713/main/assets/bar_graph.png)
+
+
+ Last Updated on 04/07/2023 18:38:20 UTC
 <!--END_SECTION:waka-->
 
 
