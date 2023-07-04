@@ -1,12 +1,16 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi!&fontSize=90&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=slice&color=323C73&height=100&section=header&text=Hi!%20I'm%20Min-hee&fontSize=90&animation=twinkling&fontColor=D5C2EE)
 
-[![Minhee713's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minhee713)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minhee713) 
- 
- 
- 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Minhee713" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhee713" />
+</a>
+
+
  <!--
 **Minhee713/Minhee713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
