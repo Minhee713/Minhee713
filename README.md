@@ -1,6 +1,13 @@
-### Hi there 👋
 
-<!--
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi!&fontSize=90&fontColor=d6ace6)
+
+[![Minhee713's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minhee713)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minhee713) 
+ 
+ 
+ 
+ <!--
 **Minhee713/Minhee713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
