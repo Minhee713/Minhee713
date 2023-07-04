@@ -6,6 +6,18 @@
   <img height="250em" src="https://github-readme-stats-sage-theta-85.vercel.app/api/top-langs/?username=Minhee713">
 </p>
 
+<!--START_SECTION:waka-->  
+<!--END_SECTION:waka-->
+
+
+
+
+
+
+
+
+
+
 <!-- 깃허브 프로필 스탯 오류 https://80000coding.oopy.io/c4235590-9033-49b3-943c-f8b6c1bfbc36 --!>
 
  <!--
