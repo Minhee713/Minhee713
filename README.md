@@ -2,8 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=323C73&height=100&section=header&text=Hi!%20I'm%20Min-hee&fontSize=90&animation=twinkling&fontColor=D5C2EE)
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Minhee713">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhee713">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Minhee713">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhee713">
 </p>
 
 
