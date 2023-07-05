@@ -9,8 +9,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-88-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
@@ -69,11 +67,6 @@ C                        3 repos             ███████████�
 q                        1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Minhee713/Minhee713/main/assets/bar_graph.png)
 
 
  Last Updated on 04/07/2023 18:38:20 UTC
