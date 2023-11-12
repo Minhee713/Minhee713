@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=323C73&height=100&section=header&text=Embedded%20Software&fontSize=50&animation=twinkling&fontColor=D5C2EE)
+![header](https://capsule-render.vercel.app/api?type=slice&color=323C73&height=100&section=header&text=Embedded%20Software&fontSize=80&animation=twinkling&fontColor=D5C2EE)
 <!--![header](https://capsule-render.vercel.app/api?type=slice&color=323C73&height=100&section=header&text=Hi!%20I'm%20Min-hee&fontSize=90&animation=twinkling&fontColor=D5C2EE) -->
 
 <!--START_SECTION:waka-->
@@ -37,7 +37,7 @@ q                        1 repo              ██░░░░░░░░░�
 
  Last Updated on 11/11/2023 18:33:19 UTC
 <!--END_SECTION:waka-->
--->
+
 
 
 
