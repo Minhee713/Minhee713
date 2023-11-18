@@ -2,6 +2,14 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=323C73&height=100&section=header&text=Embedded%20Software&fontSize=80&animation=twinkling&fontColor=D5C2EE)
 <!--![header](https://capsule-render.vercel.app/api?type=slice&color=323C73&height=100&section=header&text=Hi!%20I'm%20Min-hee&fontSize=90&animation=twinkling&fontColor=D5C2EE) -->
 
+안녕하세요! 권민희라고 합니다.  
+임베디드 소프트웨어 개발 공부하고 있습니다. 
+
+Hi, there! I’m min-hee Kwon from South Korea.  
+I’m currently learning embedded software.
+
+
+
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -21,27 +29,6 @@ Thursday                 68 commits          ███░░░░░░░░�
 Friday                   75 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
 Saturday                 47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
 Sunday                   75 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Markdown                 54 mins             ██████████████████░░░░░░░   71.84 % 
-Other                    21 mins             ███████░░░░░░░░░░░░░░░░░░   28.16 % 
-
-🔥 Editors: 
-VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-TIL                      54 mins             ██████████████████░░░░░░░   71.84 % 
-stm32_embedded           21 mins             ███████░░░░░░░░░░░░░░░░░░   28.16 % 
-
-💻 Operating System: 
-Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
