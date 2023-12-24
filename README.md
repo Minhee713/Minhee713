@@ -6,7 +6,11 @@
 임베디드 소프트웨어 개발 공부하고 있습니다. 
 
 Hi, there! I’m min-hee Kwon from South Korea.  
-I’m currently learning embedded software.
+I’m currently learning embedded software.  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minhee713&layout=compact)  
+
+
 
 
 
