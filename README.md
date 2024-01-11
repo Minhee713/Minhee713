@@ -6,7 +6,11 @@
 임베디드 소프트웨어 개발 공부하고 있습니다. 
 
 Hi, there! I’m min-hee Kwon from South Korea.  
-I’m currently learning embedded software.  
+I’m currently learning embedded software.    
+
+[PORTFOLIO: gist.github.com](https://gist.github.com/Minhee713/5ee6d2f3a58d26c166545645942f6409)   
+[BLOG: www.minheekwon.com](https://www.minheekwon.com)  
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minhee713&layout=compact)  
 
