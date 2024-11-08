@@ -3,13 +3,18 @@
 <!--![header](https://capsule-render.vercel.app/api?type=slice&color=323C73&height=100&section=header&text=Hi!%20I'm%20Min-hee&fontSize=90&animation=twinkling&fontColor=D5C2EE) -->
 
 안녕하세요! 권민희라고 합니다.  
-임베디드 소프트웨어 개발 공부하고 있습니다. 
+전기차 충전기 만들고 있습니다. 리눅스 환경에서 C/C++ 사용합니다.  
+현재는 주로 OCPP 프로토콜 다루고 있고, KC인증 업무에 참여하고 있습니다.  
+환경부 VAS 시험 테스트 경험이 있습니다. 
 
-Hi, there! I’m min-hee Kwon from South Korea.  
-I’m currently learning embedded software.    
+Hi, there! I’m minhee(민희) from South Korea.  
+I'm working on developing electric vehicle chargers.  
+I mainly work with C/C++ in a Linux environment.
 
-[PORTFOLIO: gist.github.com](https://gist.github.com/Minhee713/5ee6d2f3a58d26c166545645942f6409)   
-[BLOG: www.minheekwon.com](https://www.minheekwon.com)  
+
+
+<!-- [PORTFOLIO: gist.github.com](https://gist.github.com/Minhee713/5ee6d2f3a58d26c166545645942f6409)   
+[BLOG: www.minheekwon.com](https://www.minheekwon.com) --> 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minhee713&layout=compact)  
