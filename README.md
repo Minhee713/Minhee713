@@ -2,12 +2,12 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=323C73&height=100&section=header&text=Embedded%20Software&fontSize=80&animation=twinkling&fontColor=D5C2EE)
 <!--![header](https://capsule-render.vercel.app/api?type=slice&color=323C73&height=100&section=header&text=Hi!%20I'm%20Min-hee&fontSize=90&animation=twinkling&fontColor=D5C2EE) -->
 
-안녕하세요! 권민희라고 합니다.  
+안녕하세요! 
 전기차 충전기 만들고 있습니다. 리눅스 환경에서 C/C++ 사용합니다.  
 현재는 주로 OCPP 프로토콜 다루고 있고, KC인증 업무에 참여하고 있습니다.  
 환경부 VAS 시험 테스트 경험이 있습니다. 
 
-Hi, there! I’m minhee(민희) from South Korea.  
+Hi, there!   
 I'm working on developing electric vehicle chargers.  
 I mainly work with C/C++ in a Linux environment.
 
